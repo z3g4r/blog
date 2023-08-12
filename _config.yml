@@ -1,5 +1,5 @@
 title: "z3g4r's Dev Blog"
 author: "z3g4r"
-remote_theme: songzivong/dark-minima
+remote_theme: tocttou/hacker-blog
 plugins:
 - jekyll-remote-theme
